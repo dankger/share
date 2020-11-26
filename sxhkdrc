@@ -137,7 +137,7 @@ alt + super + {Left,Down,Up,Right}
 # Google-Chrome
 
 super + shift + g
-	chromium
+	google-chrome
 
 # Open Burpsuite Professional
 
